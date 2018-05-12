@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3095'
     url: http://www.gutenberg.org/2009/agents/3095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26295#The-Printer-Boy.Or-How-Benjamin-Franklin-Made-His-Mark.-An-Example-for-Youth.
 gutenberg_issued: '2008-08-13'
 gutenberg_type: Text
 identifiers:
